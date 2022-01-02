@@ -3,7 +3,7 @@
 # done together with further rule improvements in
 # https://github.com/common-voice/cv-sentence-extractor/pull/157
 
-segmenter = "python"
+#segmenter = "python"
 min_trimmed_length = 0
 min_word_count = 0
 max_word_count = 10000000000000000000000000000
