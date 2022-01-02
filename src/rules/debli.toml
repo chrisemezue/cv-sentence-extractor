@@ -4,10 +4,6 @@
 # https://github.com/common-voice/cv-sentence-extractor/pull/157
 
 #segmenter = "python"
-min_trimmed_length = 0
-min_word_count = 0
-max_word_count = 10000000000000000000000000000
-min_characters = 0
 may_end_with_colon = true
 quote_start_with_letter = true
 needs_punctuation_end = false
